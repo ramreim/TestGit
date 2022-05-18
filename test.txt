@@ -1,22 +1,12 @@
-<<<<<<< HEAD
+
 main saka 2022-05-18 11:50
+pagrindines sakos eilute 000
 pagrindines sakos eilute 001
 pagrindines sakos eilute 002
 pagrindines sakos eilute 003
 pagrindines sakos eilute 004
 pagrindines sakos eilute 005
+pagrindines sakos eilute 006
+pagrindines sakos eilute 007
 
 
-
-=======
-saka papildimai 2022-05-18 11:54
-prideta eilute 001
-
-
-
-
-
-prideta eilute 007
-
-
->>>>>>> papildimai
